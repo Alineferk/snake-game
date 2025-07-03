@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game 🐍
 
 Este é um jogo da cobra (Snake) simples implementado em JavaScript, HTML e CSS.
 
